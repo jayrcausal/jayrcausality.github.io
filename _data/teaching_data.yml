@@ -1,7 +1,6 @@
-- {place: 'carlos', year: '2017-2018', name: 'Linear networks analysis and synthesis', degree: 'Bachelor in Telecommunication Technologies Engineering (1st year)', description: ''}
-- {place: 'carlos', year: '2017-2018', name: 'Linear systems', degree: 'Bachelor in Mobile and Space Communications Engineering (2nd year)', description: ''}
-- {place: 'carlos', year: '2017-2018', name: 'Linear systems', degree: 'Bachelor in Telecommunication Technologies Engineering (2nd year)', description: ''}
-- {place: 'carlos', year: '2017-2018', name: 'Linear systems', degree: 'Bachelor in Telematics Engineering (2nd year)', description: ''}
-- {place: 'carlos', year: '2018-2019', name: 'Linear systems', degree: 'Bachelor in Mobile and Space Communications Engineering (2nd year)', description: ''}
-- {place: 'carlos', year: '2018-2019', name: 'Linear systems', degree: 'Bachelor in Telecommunication Technologies Engineering (2nd year)', description: ''}
-- {place: 'carlos', year: '2018-2019', name: 'Linear systems', degree: 'Bachelor in Telematics Engineering (2nd year)', description: ''}
+- {place: 'NYU', year: 'Fall 2023', name: 'Causal Inference', degree: 'Courant Institute of Mathematics', description: ''}
+- {place: 'NYU', year: 'Spring 2023', name: 'Introduction to Machine Learning', degree: 'Graduate School of Art and Science', description: ''}
+- {place: 'NYU', year: 'Fall 2022-Spring 2023', name: 'Statistics for Analysis and Research', degree: 'College of Art and Science', description: ''}
+- {place: 'NYU', year: 'Fall 2022', name: 'CAS-10 Statistics for Bahavioral Science', degree: 'College of Art and Science', description: ''}
+- {place: 'NYU', year: 'Spring 2022', name: 'GY-6193 Statistics for Data Analys', degree: 'Tandon School of Engineering', description: ''}
+
