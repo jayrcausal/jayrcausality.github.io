@@ -7,8 +7,8 @@ conference:
 
 
 arxiv:
-- {authors: [{name: 'Jiaxu Ren', url: 'https://sahel13.github.io/'}, {name: 'Yinxin Wang', url: 'https://scholar.google.com/citations?hl=es&user=9LrmZZwAAAAJ'}, {name: 'Biwei Huang', me: '1'},  year: '2024', title: 'Causal Representation Meets Stochastic Modeling', journal: 'arXiv preprint arXiv:', arxiv: 'https://arxiv.org'}
-- {authors: [{name: 'Bryant Moy', me: '1'}, {name: 'Jiaxu Ren', url: 'https://www.tsc.uc3m.es/~hmolina/'}, year: '2024', title: 'Improvinmg Credibility in Regression Discontinuity through Bayesian Change Point Detection', journal: 'arXiv preprint arXiv:', arxiv: 'https://static1.squarespace.com/static/6268b888592ce56235001050/t/66d4eabdfb76b905f242886e/1725229788508/rdd_cpa_MoyRen', poster: 'https://static1.squarespace.com/static/6268b888592ce56235001050/t/659acf08f0aa1822d35d4141/1705073370852/asianpolmeth'}
+- {authors: [{name: 'Jiaxu Ren', url: '', me: '1'}, {name: 'Yinxin Wang', url: ''}, {name: 'Biwei Huang'}], year: '2024', title: 'Causal Representation Meets Stochastic Modeling', journal: 'arXiv preprint arXiv:', arxiv: 'https://arxiv.org'}
+- {authors: [{name: 'Bryant Moy'}, {name: 'Jiaxu Ren', url: '', me: '1'}], year: '2024', title: 'Improvinmg Credibility in Regression Discontinuity through Bayesian Change Point Detection', journal: 'arXiv preprint arXiv:', arxiv: 'https://static1.squarespace.com/static/6268b888592ce56235001050/t/66d4eabdfb76b905f242886e/1725229788508/rdd_cpa_MoyRen', poster: 'https://static1.squarespace.com/static/6268b888592ce56235001050/t/659acf08f0aa1822d35d4141/1705073370852/asianpolmeth'}
 
 thesis:
 - {title: '', description: '', paper: '', slides: ''}
