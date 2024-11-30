@@ -1,4 +1,3 @@
-<! –– 
 
 journal:
 - {idx: '[J2]', authors: [{name: 'Pérez-Vieites, S.', me: '1'}, {name: 'Míguez, J.', url: 'https://jmiguez.webs.tsc.uc3m.es/', last: '1'}], year: '2021',title: 'Nested Gaussian filters for recursive Bayesian inference and nonlinear tracking in state space models.', journal: 'Signal Processing, 189, 108295.', web: 'https://www.sciencedirect.com/science/article/pii/S0165168421003327', doi: 'https://doi.org/10.1016/j.sigpro.2021.108295', arxiv: 'https://arxiv.org/abs/2103.12666', code: 'https://github.com/sarapv/Perez-Vieites2021_NestedGaussianFilter.git'}
@@ -7,7 +6,6 @@ journal:
 conference:
 - {idx: '[C6]', authors: [{name: 'Cox, B.'}, {name: 'Pérez-Vieites, S.', me: '1'}, {name: 'Zilberstein, N.', url: 'https://sites.google.com/view/nzilberstein'}, {name: 'Sevilla, M.', url: 'https://scholar.google.com/citations?user=x02G5UoAAAAJ&hl=es&oi=ao'}, {name: 'Segarra, S.', url: 'https://segarra.rice.edu/'}, {name: 'Elvira, V.', url: 'https://victorelvira.github.io/', last: '1'}], year: '2024', title: 'End-to-end learning of Gaussian mixture proposals using differentiable particle filters and neural networks.', journal: 'In ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 9701-9705). IEEE.', doi: 'https://doi.org/10.1109/ICASSP48485.2024.10447783', paper: 'publications/papers/Cox24_ICASSP.pdf'}
 
--->
 
 arxiv:
 - {authors: [{name: 'Jiaxu Ren', url: '', me: '1'}, {name: 'Yinxin Wang', url: ''}, {name: 'Biwei Huang'}], year: '2024', title: 'Causal Representation Meets Stochastic Modeling', journal: 'arXiv preprint arXiv:', arxiv: 'https://arxiv.org'}
