@@ -1,3 +1,5 @@
+<! –– 
+
 journal:
 - {idx: '[J2]', authors: [{name: 'Pérez-Vieites, S.', me: '1'}, {name: 'Míguez, J.', url: 'https://jmiguez.webs.tsc.uc3m.es/', last: '1'}], year: '2021',title: 'Nested Gaussian filters for recursive Bayesian inference and nonlinear tracking in state space models.', journal: 'Signal Processing, 189, 108295.', web: 'https://www.sciencedirect.com/science/article/pii/S0165168421003327', doi: 'https://doi.org/10.1016/j.sigpro.2021.108295', arxiv: 'https://arxiv.org/abs/2103.12666', code: 'https://github.com/sarapv/Perez-Vieites2021_NestedGaussianFilter.git'}
 - {idx: '[J1]', authors: [{name: 'Pérez-Vieites, S.', me: '1'}, {name: 'Mariño, I. P.', url: 'https://gestion2.urjc.es/pdi/ver/ines.perez'}, {name: 'Míguez, J.', url: 'https://jmiguez.webs.tsc.uc3m.es/', last: '1'}], year: '2018', title: 'Probabilistic scheme for joint parameter estimation and state prediction in complex dynamical systems.', journal: 'Physical Review E, 98(6), 063305.', doi: 'https://doi.org/10.1103/PhysRevE.98.063305', arxiv: 'https://arxiv.org/abs/1708.03730', poster: 'publications/posters/posterSIAMChapterSaraPV.pdf', slides: 'publications/slides/Charla05DiciembreGTS.pdf', code: 'https://github.com/sarapv/Perez-Vieites2018_NestedHybridFilter.git'}
@@ -5,10 +7,9 @@ journal:
 conference:
 - {idx: '[C6]', authors: [{name: 'Cox, B.'}, {name: 'Pérez-Vieites, S.', me: '1'}, {name: 'Zilberstein, N.', url: 'https://sites.google.com/view/nzilberstein'}, {name: 'Sevilla, M.', url: 'https://scholar.google.com/citations?user=x02G5UoAAAAJ&hl=es&oi=ao'}, {name: 'Segarra, S.', url: 'https://segarra.rice.edu/'}, {name: 'Elvira, V.', url: 'https://victorelvira.github.io/', last: '1'}], year: '2024', title: 'End-to-end learning of Gaussian mixture proposals using differentiable particle filters and neural networks.', journal: 'In ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 9701-9705). IEEE.', doi: 'https://doi.org/10.1109/ICASSP48485.2024.10447783', paper: 'publications/papers/Cox24_ICASSP.pdf'}
 
+-->
 
 arxiv:
 - {authors: [{name: 'Jiaxu Ren', url: '', me: '1'}, {name: 'Yinxin Wang', url: ''}, {name: 'Biwei Huang'}], year: '2024', title: 'Causal Representation Meets Stochastic Modeling', journal: 'arXiv preprint arXiv:', arxiv: 'https://arxiv.org'}
 - {authors: [{name: 'Bryant Moy'}, {name: 'Jiaxu Ren', url: '', me: '1'}], year: '2024', title: 'Improvinmg Credibility in Regression Discontinuity through Bayesian Change Point Detection', journal: 'arXiv preprint arXiv:', arxiv: 'https://static1.squarespace.com/static/6268b888592ce56235001050/t/66d4eabdfb76b905f242886e/1725229788508/rdd_cpa_MoyRen', poster: 'https://static1.squarespace.com/static/6268b888592ce56235001050/t/659acf08f0aa1822d35d4141/1705073370852/asianpolmeth'}
 
-thesis:
-- {title: '', description: '', paper: '', slides: ''}
