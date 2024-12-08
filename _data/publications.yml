@@ -13,5 +13,5 @@ arxiv:
 
 project:
 - {authors: [{name: 'Jiaxu Ren', url: '', me: '1'}, {name: 'Michele Santacatterina', url: 'https://michelesantacatterina.github.io/'}], year: '2023', title: 'Understanding Efficient Off-policy Value
-Estimation in Precision Medicine', journal: 'arXiv preprint arXiv:', report: 'https://e1c51c41-5efd-40bd-83a1-3ab8fb01fce2.filesusr.com/ugd/f5851e_1f3d3e4664ed4516a48822ba5da984a6.pdf'}
+Estimation in Precision Medicine', paper: 'publications/report/Draft__Efficient_Estimation_in_Off_policy.pdf', report: 'https://e1c51c41-5efd-40bd-83a1-3ab8fb01fce2.filesusr.com/ugd/f5851e_1f3d3e4664ed4516a48822ba5da984a6.pdf'}
 
