@@ -160,8 +160,8 @@
         <!-- <p>{{ item.name }} <a href="{{ item.web }}">[arXiv]</a><a href="{{ item.url }}">[pdf]</a></p> -->
       {% endfor %}
     <br>
-    <h4>Ph.D. Thesis</h4>
-      {% for item in site.data.publications.thesis %}
+    <h4>Project and Report</h4>
+      {% for item in site.data.publications.project %}
         <p><em>{{ item.title }}</em>, {{ item.description }} 
           <br><!--<a class="paper" href="{{ item.paper }}">[pdf]</a>-->
           {% if item.paper != null %}
